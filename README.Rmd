@@ -1,0 +1,30 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# visuals
+
+HQ hex and visuals for ThinkR projects
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+## PNG hex
+
+<!-- code from @hadley: https://github.com/rstudio/hex-stickers/blob/master/PNG/README.Rmd -->
+
+```{r, results = "asis", echo = FALSE}
+fig_file <- dir(path = "hexes", pattern = "png$")
+glue::glue('<a href="hexes/{fig_file}"><img src="hexes/{fig_file}" width="100"></a> ')
+```
+
+*Hexes drawn by [\@statnmap](https://github.com/statnmap).*  
