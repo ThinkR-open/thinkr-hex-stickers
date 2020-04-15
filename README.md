@@ -3,8 +3,7 @@
 
 # visuals
 
-HQ hex and visuals for ThinkR
-projects
+HQ hex and visuals for ThinkR projects
 
 <!-- badges: start -->
 
@@ -24,6 +23,7 @@ projects
 <a href="hexes/thinkr-hex-remedy.png"><img src="hexes/thinkr-hex-remedy.png" width="100"></a>
 <a href="hexes/thinkr-hex-rusk.png"><img src="hexes/thinkr-hex-rusk.png" width="100"></a>
 <a href="hexes/thinkr-hex-shinipsum.png"><img src="hexes/thinkr-hex-shinipsum.png" width="100"></a>
+<a href="hexes/thinkr-hex-shinysnippets.png"><img src="hexes/thinkr-hex-shinysnippets.png" width="100"></a>
 <a href="hexes/thinkr-hex-thinkr-entreprise.png"><img src="hexes/thinkr-hex-thinkr-entreprise.png" width="100"></a>
 <a href="hexes/thinkr-hex-thinkr-package.png"><img src="hexes/thinkr-hex-thinkr-package.png" width="100"></a>
 
