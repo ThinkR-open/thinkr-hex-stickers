@@ -16,10 +16,13 @@ HQ hex and visuals for ThinkR projects
 <a href="hexes/colin-hex-attempt.png"><img src="hexes/colin-hex-attempt.png" width="100"></a>
 <a href="hexes/colin-hex-proustr.png"><img src="hexes/colin-hex-proustr.png" width="100"></a>
 <a href="hexes/thinkr-hex-attachment.png"><img src="hexes/thinkr-hex-attachment.png" width="100"></a>
+<a href="hexes/thinkr-hex-devindocker.png"><img src="hexes/thinkr-hex-devindocker.png" width="100"></a>
 <a href="hexes/thinkr-hex-fakir.png"><img src="hexes/thinkr-hex-fakir.png" width="100"></a>
 <a href="hexes/thinkr-hex-fcuk.png"><img src="hexes/thinkr-hex-fcuk.png" width="100"></a>
+<a href="hexes/thinkr-hex-fusen.png"><img src="hexes/thinkr-hex-fusen.png" width="100"></a>
 <a href="hexes/thinkr-hex-gitdown.png"><img src="hexes/thinkr-hex-gitdown.png" width="100"></a>
 <a href="hexes/thinkr-hex-golem2.png"><img src="hexes/thinkr-hex-golem2.png" width="100"></a>
+<a href="hexes/thinkr-hex-inca3.png"><img src="hexes/thinkr-hex-inca3.png" width="100"></a>
 <a href="hexes/thinkr-hex-prenoms.png"><img src="hexes/thinkr-hex-prenoms.png" width="100"></a>
 <a href="hexes/thinkr-hex-remedy.png"><img src="hexes/thinkr-hex-remedy.png" width="100"></a>
 <a href="hexes/thinkr-hex-rusk.png"><img src="hexes/thinkr-hex-rusk.png" width="100"></a>
